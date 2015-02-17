@@ -1,3 +1,5 @@
+## Coursera - R Programming - Programming Assignment 2
+##
 ## makeCacheMatrix creates a special object that stores a matrix and caches's the inverse.
 ## This special object is a list containing the following functions:
 ## 1. set the value of the matrix
